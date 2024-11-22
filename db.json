@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "computer",
+      "price": 4300,
+      "quantity": "650",
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": "2",
+      "name": "printer",
+      "price": 300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "3",
+      "name": "smartphone",
+      "price": 1200,
+      "quantity": 100,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": "7519",
+      "name": "khobza",
+      "price": "200",
+      "quantity": "5",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "ec34",
+      "name": "3adhma",
+      "price": "1300",
+      "quantity": "4",
+      "selected": true,
+      "available": false
+    }
+  ]
+}
